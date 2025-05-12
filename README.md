@@ -9,7 +9,7 @@ You can add, update, delete, and view products with a clean UI.
 
 ## 📸 Screenshot
 
-![Product Store Screenshot](screenshot-for-readme.png)
+![Product Store Screenshot](Screenshots/screenshot-for-readme.png)
 
 ## 🛠️ Tech Stack
 
